@@ -2,7 +2,7 @@
 
 Some short warm-up programs attempted in Python 3.
 
- * `convert_to_binary.py`. Time to write: 8:24. Usage (Ipython):
+ * `convert_to_binary.py`. Time to write: 8:24. Usage (Ipython): `convert_to_binary(integer, base=2)` (integer bases other than 2 are allowed).
 
    ```python
    In [1]: import convert_to_binary as C
